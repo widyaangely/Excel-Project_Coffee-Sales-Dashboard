@@ -12,7 +12,7 @@ Microsoft Excel
 # Skilled used
 Duplicate Removals, IF Function, XLOOKUP, Pivot Table, Charts and Slicer
 
-#Insights
+# Insights
 
 - The majority of the coffee sales came from USA, at $15,465.
 - The top customer spent up to $307 in sales over the time period.
