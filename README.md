@@ -13,7 +13,8 @@ Microsoft Excel
 Duplicate Removals, IF Function, XLOOKUP, Pivot Table, Charts and Slicer
 
 #Insights
-** The majority of the coffee sales came from USA, at $15,465.
+
+*The majority of the coffee sales came from USA, at $15,465.
 The top customer spent up to $307 in sales over the time period.
 Robusta and Excelsa were the two most popular coffee types in 2019.
 Liberica became the most popular coffee type in 2022
