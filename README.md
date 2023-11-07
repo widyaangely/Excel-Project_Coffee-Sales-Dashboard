@@ -7,24 +7,10 @@ Coffee sales data from January 2019 to December 2022.
 Analyse coffee sales data to identify seasonal trends and customer preferences in order to optimise product offerings and marketing strategies.
 
 # Tools
-Excel for data cleaning
-Excel for data analysis
-Excel for data visualisation
+Microsoft Excel 
 
-#Data Cleaning
-XLOOKUP to retrieve data
-INDEX MATCH for advanced data retrieval
-Multiplication formulas for calculations
-IF Functions for data validation
-Date Formatting for readable data presentation
-Number Formatting for data clarity
-Duplicate checks
-
-#Data Visualisation
-Created pivot tables
-Created charts for each pivot table
-Added slicers for filtering the data
-Created a dashboard for presentation
+# Skilled used :
+Duplicate Removals, IF Function, XLOOKUP, Pivot Table, Charts and Slicer
 
 #Insights
 The majority of the coffee sales came from USA, at $15,465.
